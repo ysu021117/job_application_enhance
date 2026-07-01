@@ -37,9 +37,3 @@ skills/
   career-voice-match/
   job-application-strategy/
 ```
-
-## Notes
-
-- The skills are sanitized for public upload and do not include personal user data.
-- Generated workspaces, outputs, and local artifacts should stay outside this repository.
-- Choose and add your preferred open-source license before publishing if you want to make reuse terms explicit.
