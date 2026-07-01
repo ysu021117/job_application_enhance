@@ -1,0 +1,4 @@
+interface:
+  display_name: "Career Voice Match"
+  short_description: "Make resumes and cover letters sound natural"
+  default_prompt: "Use $career-voice-match to revise this resume or cover letter so it sounds polished, natural, and consistent with my writing samples."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Application Strategy"
+  short_description: "Extract experience and target resumes to roles"
+  default_prompt: "Use $job-application-strategy to extract my experience from resume versions and supporting materials, analyze a target role, and build a resume plan before drafting documents."
