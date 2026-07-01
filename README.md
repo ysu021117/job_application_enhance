@@ -1,6 +1,6 @@
 # AI Career Skills
 
-Reusable Codex skills for resume targeting, application strategy, and voice-aligned career document rewriting.
+Reusable skills for resume targeting, application strategy, and voice-aligned career document rewriting.
 
 ## Included Skills
 
